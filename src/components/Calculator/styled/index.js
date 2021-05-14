@@ -5,7 +5,7 @@ export const Container = styled.div`
   justify-content: center;
   align-content: center;
   width: 400px;
-  margin: 40px auto;
+  margin: 40px 560px 560px;
   grid-template-columns: repeat(4, 100px);
   grid-template-rows: minmax(120px, auto) repeat(5, 100px);
   box-shadow: 2px 2px 10px #333;
