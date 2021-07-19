@@ -26,13 +26,11 @@ Make sure you have node.js installed.
 1. Fork this repository.
 2. clone it.
  ```
- git clone https://github.com/YOUR_GITHUB_UserName/Hacking-Scripts
+ git clone https://github.com/YOUR_GITHUB_UserName/React-Calculator
  ```
 3. 
  ```
-  cd Hacking-Scripts
-  cd Reactjs
-  cd React-Calculator
+ cd React-Calculator
  ```
 4. Install node modules
  ```
